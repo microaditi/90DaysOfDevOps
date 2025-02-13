@@ -1,0 +1,8 @@
+mkdir week_4_challenge
+cd week_4_challenge/
+git init
+touch info.txt
+git add info.txt
+git commit -m Initial commit: Add info.txt with introductory content
+
+
