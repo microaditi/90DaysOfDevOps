@@ -1,0 +1,5 @@
+mkdir -p devops_workspace
+
+vi project_notes.txt
+
+sudo chmod 660 project_notes.txt
