@@ -1,0 +1,7 @@
+useradd -m devops_user
+groupadd -g 1010 devops
+-------------------------
+
+cat /etc/passwd | grep devops_user
+
+cat /etc/group | grep devops
